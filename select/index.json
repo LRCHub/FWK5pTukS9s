@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Drive and Disconnect",
+  "base_artist": "Nao",
+  "createdAt": "2026-03-08T07:57:58.941784Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drive and Disconnect",
+      "artist": "Nao",
+      "has_synced": true,
+      "path": "select/01_Drive_and_Disconnect_Nao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drive and Disconnect",
+      "artist": "NAO",
+      "has_synced": true,
+      "path": "select/02_Drive_and_Disconnect_NAO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drive and Disconnect",
+      "artist": "Nao",
+      "has_synced": false,
+      "path": "select/pl_01_Drive_and_Disconnect_Nao.txt"
+    }
+  ]
+}
