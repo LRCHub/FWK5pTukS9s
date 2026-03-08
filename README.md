@@ -1,0 +1,64 @@
+# Nao – Drive and Disconnect
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.39] Run, run, running
+[00:13.45] Drive me away, I
+[00:15.30] See 'em come, come, coming
+[00:17.18] Don't wanna stay, wanna stay in
+[00:18.78] Days like, days like this, like this
+[00:22.99] Find a better place in this madness
+[00:40.49] 
+[00:26.91] Trying to escape from them, from them
+[00:30.63] I guess, I guess, I guess
+[00:43.13] 
+[00:34.17] We drive and we disconnect
+[00:38.07] We drive and we disconnect
+[00:43.57] Send my best, no regrets
+[00:45.71] With the wind, I'm gone
+[00:48.34] I guess, I guess
+[00:50.63] We drive and we disconnect
+[01:03.63] 
+[00:59.67] Tell me to stay
+[01:01.82] But I can't, even if I wanted
+[01:03.65] Tell me to lie
+[01:05.89] But I committed too many crimes
+[01:08.03] Let's stay like, stay like this, like this
+[01:12.40] Why can't we remain like this, like this?
+[01:32.90] 
+[01:16.66] Trying to escape from them, from them
+[01:20.56] I guess, I guess, I guess
+[01:33.06] 
+[01:23.72] We drive and we disconnect
+[01:27.89] We drive and we disconnect
+[01:32.88] Send my best, no regrets
+[01:35.50] With the wind, I'm gone
+[01:38.01] I guess, I guess
+[01:40.31] We drive and we disconnect
+[01:53.31] 
+[01:57.93] Heaven know
+[01:59.10] Look what you do to me
+[02:02.26] Heaven know
+[02:04.12] Look what you do to me
+[02:06.33] Heaven know
+[02:08.35] Look what you do to me
+[02:10.31] Heaven know
+[02:12.41] Look what you do to me
+[02:23.41] 
+[02:13.64] We drive and we disconnect
+[02:17.30] We drive and we disconnect
+[02:22.64] Send my best, no regrets
+[02:25.32] With the wind, I'm gone
+[02:27.67] I guess, I guess
+[02:30.01] We drive and we disconnect
+[02:43.01] 
+[02:31.43] Heaven know
+[02:33.13] Look what you do to me
+[02:35.23] Heaven know
+[02:37.11] Look what you do to me
+[02:39.24] Heaven know
+[02:41.49] Look what you do to me
+[02:43.51] Heaven know
+[02:45.58] Look what you do to me
+```
